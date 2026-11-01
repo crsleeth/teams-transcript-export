@@ -1,7 +1,5 @@
 # Teams Transcript Export
 
-Status: Working | Next: Fix if a Teams update breaks it
-
 Copies a full Microsoft Teams meeting transcript to your clipboard. Teams only loads the part of the transcript on screen, so this script scrolls through all of it for you.
 
 ## Use
